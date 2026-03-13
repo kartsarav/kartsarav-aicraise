@@ -13,7 +13,8 @@ item3.TEL;type=pref:+1 (425) 270-7089
 item3.X-ABLabel:US
 item4.TEL:+91 74188 64002
 item4.X-ABLabel:IN
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/LinkedIn.com/in/kartsarav
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/kartsarav
 item5.URL;type=pref:Aicraise.com
 item5.X-ABLabel:AIC RAISE Website
 END:VCARD
+
